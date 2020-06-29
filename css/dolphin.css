@@ -24,6 +24,6 @@ html {
   #dolphin {
     position: absolute;
     top: 30px;
-    transform: rotate(90);
+    transform: rotate(90deg);
   }
 }
